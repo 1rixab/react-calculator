@@ -1,0 +1,21 @@
+.header-div {
+  width: 100%;
+  height: 15vh;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+#selectTheme {
+  font-size: 1.5em;
+  margin-right: 20px;
+  border: none;
+}
+.header-light {
+  background-color: #e3daff;
+  color: black;
+}
+  
+.header-dark {
+  background-color: darkslategrey;
+  color: white;
+}

@@ -1,0 +1,11 @@
+.Calbox-div {
+  width: 22rem;
+  height: 30rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+  display: grid;
+  grid-template-columns: 5.3rem 5.3rem 5.3rem 5.3rem;
+  column-gap: 0.269rem;
+  grid-template-rows: 4.7rem 4.7rem 4.7rem 4.7rem 4.7rem 4.7rem;
+  row-gap: 0.26rem;
+}

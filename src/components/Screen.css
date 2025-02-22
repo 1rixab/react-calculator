@@ -1,0 +1,15 @@
+.screen-container {
+  width: 21rem;
+  height: 4rem;
+  border: .3rem solid black;
+  border-radius: 1.5rem;
+  margin : 0 0 0.5rem 0;
+  display: flex;
+  align-items: center;
+}
+.screenText{
+  font-size: 2.5rem;
+  padding-left: .5rem;
+  /* border: none; */
+  width: 20rem;
+}
